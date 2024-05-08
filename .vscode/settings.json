@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "cstdlib": "c",
+        "adwaita.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "gtk.h": "c",
+        "fuel_vehicle.h": "c",
+        "mpfr.h": "c",
+        "new_energy_vehicles.h": "c",
+        "stringformatutil.h": "c",
+        "gtkutil.h": "c",
+        "calculatecarprice.h": "c",
+        "calculatecarpriceutil.h": "c"
+    },
+    "cmake.sourceDirectory": "D:/Myself/Code/C/JKCARNB/src"
+}

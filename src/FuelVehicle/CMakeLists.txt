@@ -11,7 +11,8 @@ target_link_libraries(FuelVehicle
     PUBLIC ${ADWAITA_LIBRARIES} 
     PRIVATE GtkUtils 
     PRIVATE StringFormatUtil 
-    PRIVATE CalculateCarPriceUtil)
+    PRIVATE CalculateCarPriceUtil
+    PRIVATE TimeUtil)
 
 install(TARGETS FuelVehicle DESTINATION lib)
 install(FILES fuel_vehicle.h DESTINATION include)

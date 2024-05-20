@@ -11,7 +11,9 @@
         "stringformatutil.h": "c",
         "gtkutil.h": "c",
         "calculatecarprice.h": "c",
-        "calculatecarpriceutil.h": "c"
+        "calculatecarpriceutil.h": "c",
+        "time.h": "c",
+        "timeutil.h": "c"
     },
     "cmake.sourceDirectory": "D:/Myself/Code/C/JKCARNB/src"
 }

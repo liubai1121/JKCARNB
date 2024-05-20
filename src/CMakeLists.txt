@@ -11,7 +11,7 @@ find_package(PkgConfig REQUIRED)
 pkg_check_modules(GTK4 REQUIRED gtk4)
 pkg_check_modules(ADWAITA REQUIRED libadwaita-1)
 
-add_executable(JKCARNB WIN32 main.c) #设置项目的执行文件
+add_executable(JKCARNB main.c) #设置项目的执行文件
 
 add_subdirectory("${PROJECT_SOURCE_DIR}/Utils")
 add_subdirectory("${PROJECT_SOURCE_DIR}/FuelVehicle")
